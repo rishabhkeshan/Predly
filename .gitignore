@@ -1,0 +1,3 @@
+# Don't push checkpoint file
+# add .gitignore to .gitignore after reading
+.ipynb_checkpoints
